@@ -3,36 +3,33 @@ using UnityEngine;
 
 public class Mover : MonoBehaviour
 {
-    public Rigidbody rigidBody;
-
-    public float forwardForce;
-    public float leftForce;
-    public float rightForce;
-    public float backwardForce;
+    public CharacterController controller;
+    public float speed = 12f;
+    public float gravity = -9.81f;
+    public Transform groundCheck;
+    Vector3 velocity;
+    bool isGrounded;
+    public LayerMask groundMask;
+    public float groundDistance = 0.4f;
 
     // Update is called once per frame
     void FixedUpdate()
     {
-        if (Input.GetKey("w"))
+        isGrounded = Physics.CheckSphere(groundCheck.position, groundDistance, groundMask);
+
+        if(isGrounded && velocity.y < 0)
         {
-            //Apply a force to this Rigidbody in direction of this GameObjects up axis
-            rigidBody.AddForce(transform.forward * forwardForce);
+            //small number to force down
+            velocity.y = -2f;
         }
-        if (Input.GetKey("a"))
-        {
-            //Apply a force to this Rigidbody in direction of this GameObjects up axis
-            rigidBody.AddForce(leftForce * Time.deltaTime, 0, 0);
-        }
-        if (Input.GetKey("d"))
-        {
-            //Apply a force to this Rigidbody in direction of this GameObjects up axis
-            rigidBody.AddForce(rightForce * Time.deltaTime, 0, 0);
-        }
-        if (Input.GetKey("s"))
-        {
-            //Apply a force to this Rigidbody in direction of this GameObjects up axis
-            rigidBody.AddForce(backwardForce * Time.deltaTime, 0, 0);
-        }
-        
+
+        float x = Input.GetAxis("Horizontal");
+        float z = Input.GetAxis("Vertical");
+
+        Vector3 move = transform.right * x + transform.forward * z;
+        controller.Move(move * speed * Time.deltaTime);
+
+        velocity.y += gravity * Time.deltaTime;
+        controller.Move(velocity * Time.deltaTime);
     }
 }

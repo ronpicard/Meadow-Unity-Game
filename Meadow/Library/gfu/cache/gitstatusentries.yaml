@@ -1,0 +1,720 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-05-15T16:23:13.954-04:00
+  initializedAtString: 2021-05-15T13:09:46.042-04:00
+  entries:
+  - path: Meadow\Assets\FollowPlayer.cs
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Assets\FollowPlayer.cs
+    projectPath: Assets\FollowPlayer.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Meadow\Assets\Mover.cs
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Assets\Mover.cs
+    projectPath: Assets\Mover.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Meadow\Assets\New Material.mat
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Assets\New Material.mat
+    projectPath: Assets\New Material.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Assets\New Material.mat.meta
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Assets\New Material.mat.meta
+    projectPath: Assets\New Material.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Assets\Scenes\SampleScene.unity
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Meadow\Library\AnnotationManager
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\AnnotationManager
+    projectPath: Library\AnnotationManager
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Meadow\Library\ArtifactDB
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Meadow\Library\Artifacts\1d\1df934d3997c51f6d7fd0905eebb2013
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\Artifacts\1d\1df934d3997c51f6d7fd0905eebb2013
+    projectPath: Library\Artifacts\1d\1df934d3997c51f6d7fd0905eebb2013
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Library\Artifacts\1f\1f69b5ab0f7d2e039d7e223d4938a335
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\Artifacts\1f\1f69b5ab0f7d2e039d7e223d4938a335
+    projectPath: Library\Artifacts\1f\1f69b5ab0f7d2e039d7e223d4938a335
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Library\Artifacts\28\28d0c7c1597b4cd9ed79087be1cba5fd
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\Artifacts\28\28d0c7c1597b4cd9ed79087be1cba5fd
+    projectPath: Library\Artifacts\28\28d0c7c1597b4cd9ed79087be1cba5fd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Library\Artifacts\29\2967b49f1cbe35944518984392b12c69
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\Artifacts\29\2967b49f1cbe35944518984392b12c69
+    projectPath: Library\Artifacts\29\2967b49f1cbe35944518984392b12c69
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Library\Artifacts\2a\2a1672363cdb9666d301f3948e82acad
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\Artifacts\2a\2a1672363cdb9666d301f3948e82acad
+    projectPath: Library\Artifacts\2a\2a1672363cdb9666d301f3948e82acad
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Library\Artifacts\2b\2b44456061a1d493d7cec4d0f76a6764
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\Artifacts\2b\2b44456061a1d493d7cec4d0f76a6764
+    projectPath: Library\Artifacts\2b\2b44456061a1d493d7cec4d0f76a6764
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Library\Artifacts\2b\2b4877889151122034bc839774e0021d
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\Artifacts\2b\2b4877889151122034bc839774e0021d
+    projectPath: Library\Artifacts\2b\2b4877889151122034bc839774e0021d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Library\Artifacts\36\360a5260f34349f149a79a5c34717896
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\Artifacts\36\360a5260f34349f149a79a5c34717896
+    projectPath: Library\Artifacts\36\360a5260f34349f149a79a5c34717896
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Library\Artifacts\39\398d61ee074886b47aa5ebb33c73d030
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\Artifacts\39\398d61ee074886b47aa5ebb33c73d030
+    projectPath: Library\Artifacts\39\398d61ee074886b47aa5ebb33c73d030
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Library\Artifacts\3d\3d47d12c2bb7871dbe804086c3431cda
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\Artifacts\3d\3d47d12c2bb7871dbe804086c3431cda
+    projectPath: Library\Artifacts\3d\3d47d12c2bb7871dbe804086c3431cda
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Library\Artifacts\5b\5b44d3abd1806e664ba647697b23e986
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\Artifacts\5b\5b44d3abd1806e664ba647697b23e986
+    projectPath: Library\Artifacts\5b\5b44d3abd1806e664ba647697b23e986
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Library\Artifacts\5d\5daaf29a33664aa98461368c4c3220a3
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\Artifacts\5d\5daaf29a33664aa98461368c4c3220a3
+    projectPath: Library\Artifacts\5d\5daaf29a33664aa98461368c4c3220a3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Library\Artifacts\60\6060c0b7f96886788f49f927a1594203
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\Artifacts\60\6060c0b7f96886788f49f927a1594203
+    projectPath: Library\Artifacts\60\6060c0b7f96886788f49f927a1594203
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Library\Artifacts\80\80d3e459038b500fec02d24950debd4d
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\Artifacts\80\80d3e459038b500fec02d24950debd4d
+    projectPath: Library\Artifacts\80\80d3e459038b500fec02d24950debd4d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Library\Artifacts\83\83276c701bfa3948080dc4c556dee509
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\Artifacts\83\83276c701bfa3948080dc4c556dee509
+    projectPath: Library\Artifacts\83\83276c701bfa3948080dc4c556dee509
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Library\Artifacts\93\93bf60be93b678efb6b5600d92301484
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\Artifacts\93\93bf60be93b678efb6b5600d92301484
+    projectPath: Library\Artifacts\93\93bf60be93b678efb6b5600d92301484
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Library\Artifacts\a4\a4ef76cefef05a4cea0ff7a6772da155
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\Artifacts\a4\a4ef76cefef05a4cea0ff7a6772da155
+    projectPath: Library\Artifacts\a4\a4ef76cefef05a4cea0ff7a6772da155
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Library\Artifacts\a5\a557ca117ca9a57a1e7357010bb422d9
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\Artifacts\a5\a557ca117ca9a57a1e7357010bb422d9
+    projectPath: Library\Artifacts\a5\a557ca117ca9a57a1e7357010bb422d9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Library\Artifacts\b1\b14ea22df57736447d715a6e630c71c7
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\Artifacts\b1\b14ea22df57736447d715a6e630c71c7
+    projectPath: Library\Artifacts\b1\b14ea22df57736447d715a6e630c71c7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Library\Artifacts\bf\bf0f86d21cd05c3f73a5e33a84e7fe61
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\Artifacts\bf\bf0f86d21cd05c3f73a5e33a84e7fe61
+    projectPath: Library\Artifacts\bf\bf0f86d21cd05c3f73a5e33a84e7fe61
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Library\Artifacts\c5\c56000f74898d6e81351bda81a0d2c2c
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\Artifacts\c5\c56000f74898d6e81351bda81a0d2c2c
+    projectPath: Library\Artifacts\c5\c56000f74898d6e81351bda81a0d2c2c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Library\Artifacts\cf\cf53bcd502411a69f5cfa9647d05057f
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\Artifacts\cf\cf53bcd502411a69f5cfa9647d05057f
+    projectPath: Library\Artifacts\cf\cf53bcd502411a69f5cfa9647d05057f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Library\Artifacts\d7\d7dca4f2a1d9bd7257fb2446418f4d2c
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\Artifacts\d7\d7dca4f2a1d9bd7257fb2446418f4d2c
+    projectPath: Library\Artifacts\d7\d7dca4f2a1d9bd7257fb2446418f4d2c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Library\Artifacts\f5\f5dcc55eca00c7fa730aa981ca3489e9
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\Artifacts\f5\f5dcc55eca00c7fa730aa981ca3489e9
+    projectPath: Library\Artifacts\f5\f5dcc55eca00c7fa730aa981ca3489e9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Library\Artifacts\f7\f7c3dccb87fe3bce1546fba2b4a43e36
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\Artifacts\f7\f7c3dccb87fe3bce1546fba2b4a43e36
+    projectPath: Library\Artifacts\f7\f7c3dccb87fe3bce1546fba2b4a43e36
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Library\Artifacts\fb\fb67cf00ff8db3478880bade6b2b4141
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\Artifacts\fb\fb67cf00ff8db3478880bade6b2b4141
+    projectPath: Library\Artifacts\fb\fb67cf00ff8db3478880bade6b2b4141
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Library\EditorInstance.json
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Meadow\Library\SceneVisibilityState.asset
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Meadow\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Meadow\Library\ShaderCache\2\2a9f9803e3c326201af7366badd825f0.bin
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\ShaderCache\2\2a9f9803e3c326201af7366badd825f0.bin
+    projectPath: Library\ShaderCache\2\2a9f9803e3c326201af7366badd825f0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Library\ShaderCache\4\4e9c0549cf47ce4db32741d90973a0e4.bin
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\ShaderCache\4\4e9c0549cf47ce4db32741d90973a0e4.bin
+    projectPath: Library\ShaderCache\4\4e9c0549cf47ce4db32741d90973a0e4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Library\ShaderCache\6\66c5514ce9bc203021f9ec75696b9439.bin
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\ShaderCache\6\66c5514ce9bc203021f9ec75696b9439.bin
+    projectPath: Library\ShaderCache\6\66c5514ce9bc203021f9ec75696b9439.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Library\ShaderCache\c\cdc5e2fed63ee866683382dd9e62a9b5.bin
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\ShaderCache\c\cdc5e2fed63ee866683382dd9e62a9b5.bin
+    projectPath: Library\ShaderCache\c\cdc5e2fed63ee866683382dd9e62a9b5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Meadow\Library\ShaderCache\f\f62b9a551d39f9cf25280e56bd620deb.bin
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\ShaderCache\f\f62b9a551d39f9cf25280e56bd620deb.bin
+    projectPath: Library\ShaderCache\f\f62b9a551d39f9cf25280e56bd620deb.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Library\SourceAssetDB
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Meadow\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    projectPath: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Meadow\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    projectPath: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Meadow\Logs\ApiUpdaterCheck.txt
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Logs\ApiUpdaterCheck.txt
+    projectPath: Logs\ApiUpdaterCheck.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Meadow\Logs\AssetImportWorker0.log
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Logs\AssetImportWorker0.log
+    projectPath: Logs\AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Logs\AssetImportWorker0-prev.log
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Logs\AssetImportWorker0-prev.log
+    projectPath: Logs\AssetImportWorker0-prev.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Meadow\Logs\shadercompiler-AssetImportWorker0.log
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Logs\shadercompiler-AssetImportWorker0.log
+    projectPath: Logs\shadercompiler-AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Meadow\Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Meadow\Logs\shadercompiler-UnityShaderCompiler.exe10.log
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Logs\shadercompiler-UnityShaderCompiler.exe10.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe10.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Logs\shadercompiler-UnityShaderCompiler.exe11.log
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Logs\shadercompiler-UnityShaderCompiler.exe11.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe11.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Logs\shadercompiler-UnityShaderCompiler.exe12.log
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Logs\shadercompiler-UnityShaderCompiler.exe12.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe12.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Meadow\Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Meadow\Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Meadow\Logs\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Logs\shadercompiler-UnityShaderCompiler.exe5.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe5.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Meadow\Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Meadow\Logs\shadercompiler-UnityShaderCompiler.exe7.log
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Logs\shadercompiler-UnityShaderCompiler.exe7.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe7.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Logs\shadercompiler-UnityShaderCompiler.exe8.log
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Logs\shadercompiler-UnityShaderCompiler.exe8.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe8.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Logs\shadercompiler-UnityShaderCompiler.exe9.log
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Logs\shadercompiler-UnityShaderCompiler.exe9.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe9.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\ProjectSettings\QualitySettings.asset
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Meadow\ProjectSettings\TagManager.asset
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Meadow\Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\ApiUpdater_CheckMovedFrom0f64e8fa5123e4f40bf7e1e3a0e7dbe6
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\ApiUpdater_CheckMovedFrom0f64e8fa5123e4f40bf7e1e3a0e7dbe6
+    projectPath: Temp\ApiUpdater_CheckMovedFrom0f64e8fa5123e4f40bf7e1e3a0e7dbe6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\ApiUpdater_CheckMovedFrom27ad96b03355ac8458aee7ffc1e42831
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\ApiUpdater_CheckMovedFrom27ad96b03355ac8458aee7ffc1e42831
+    projectPath: Temp\ApiUpdater_CheckMovedFrom27ad96b03355ac8458aee7ffc1e42831
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\ApiUpdater_CheckMovedFrom575a5dfeb7cb0b44ab69c2a1f7ef91c1
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\ApiUpdater_CheckMovedFrom575a5dfeb7cb0b44ab69c2a1f7ef91c1
+    projectPath: Temp\ApiUpdater_CheckMovedFrom575a5dfeb7cb0b44ab69c2a1f7ef91c1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\ApiUpdater_CheckMovedFrom96998f0042ab8f54999984acbd312ccd
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\ApiUpdater_CheckMovedFrom96998f0042ab8f54999984acbd312ccd
+    projectPath: Temp\ApiUpdater_CheckMovedFrom96998f0042ab8f54999984acbd312ccd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\ApiUpdater_CheckMovedFroma1a28c71ede493c4c88171b4a68d3a7e
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\ApiUpdater_CheckMovedFroma1a28c71ede493c4c88171b4a68d3a7e
+    projectPath: Temp\ApiUpdater_CheckMovedFroma1a28c71ede493c4c88171b4a68d3a7e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\ApiUpdater_CheckMovedFromc24f0001ffca56b48846c112fe38f951
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\ApiUpdater_CheckMovedFromc24f0001ffca56b48846c112fe38f951
+    projectPath: Temp\ApiUpdater_CheckMovedFromc24f0001ffca56b48846c112fe38f951
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\ApiUpdater_CheckMovedFromddb131451d0354645a2b789afa5b8b1a
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\ApiUpdater_CheckMovedFromddb131451d0354645a2b789afa5b8b1a
+    projectPath: Temp\ApiUpdater_CheckMovedFromddb131451d0354645a2b789afa5b8b1a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\ApiUpdater_CheckMovedFrome00c77c787effab4294d29a15967aa0e
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\ApiUpdater_CheckMovedFrome00c77c787effab4294d29a15967aa0e
+    projectPath: Temp\ApiUpdater_CheckMovedFrome00c77c787effab4294d29a15967aa0e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\Assembly-CSharp.dll.hash
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\Assembly-CSharp.dll.hash
+    projectPath: Temp\Assembly-CSharp.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\CompilationLog.txt
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\CompilationLog.txt
+    projectPath: Temp\CompilationLog.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\UnityLockfile
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\UnityTempFile-11bcdb5811baadf408a0289026a2a4df
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\UnityTempFile-11bcdb5811baadf408a0289026a2a4df
+    projectPath: Temp\UnityTempFile-11bcdb5811baadf408a0289026a2a4df
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\UnityTempFile-1b3b489052772a548bb4069e40bfd79a
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\UnityTempFile-1b3b489052772a548bb4069e40bfd79a
+    projectPath: Temp\UnityTempFile-1b3b489052772a548bb4069e40bfd79a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\UnityTempFile-1cecb707336a66f4e9538d19d2c69e62
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\UnityTempFile-1cecb707336a66f4e9538d19d2c69e62
+    projectPath: Temp\UnityTempFile-1cecb707336a66f4e9538d19d2c69e62
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\UnityTempFile-1f76e926c77fe35428da294422c8458e
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\UnityTempFile-1f76e926c77fe35428da294422c8458e
+    projectPath: Temp\UnityTempFile-1f76e926c77fe35428da294422c8458e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\UnityTempFile-28ae30a4385a7bd44b06ce26d67cdc78
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\UnityTempFile-28ae30a4385a7bd44b06ce26d67cdc78
+    projectPath: Temp\UnityTempFile-28ae30a4385a7bd44b06ce26d67cdc78
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\UnityTempFile-2a4ea251192ef264883343c6291e0881
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\UnityTempFile-2a4ea251192ef264883343c6291e0881
+    projectPath: Temp\UnityTempFile-2a4ea251192ef264883343c6291e0881
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\UnityTempFile-2b58d8d8e7ae1194f9c4eb5e51566fb4
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\UnityTempFile-2b58d8d8e7ae1194f9c4eb5e51566fb4
+    projectPath: Temp\UnityTempFile-2b58d8d8e7ae1194f9c4eb5e51566fb4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\UnityTempFile-2d4782f0aa408fc468d17d43d848fd5f
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\UnityTempFile-2d4782f0aa408fc468d17d43d848fd5f
+    projectPath: Temp\UnityTempFile-2d4782f0aa408fc468d17d43d848fd5f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\UnityTempFile-42ba27b46be0cf94aa785b0cce611c3e
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\UnityTempFile-42ba27b46be0cf94aa785b0cce611c3e
+    projectPath: Temp\UnityTempFile-42ba27b46be0cf94aa785b0cce611c3e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\UnityTempFile-43b9c8cf713d1f84ea34fddbbd7e309c
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\UnityTempFile-43b9c8cf713d1f84ea34fddbbd7e309c
+    projectPath: Temp\UnityTempFile-43b9c8cf713d1f84ea34fddbbd7e309c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\UnityTempFile-44f12b4582109354785ef91e86eb2158
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\UnityTempFile-44f12b4582109354785ef91e86eb2158
+    projectPath: Temp\UnityTempFile-44f12b4582109354785ef91e86eb2158
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\UnityTempFile-452e566afabfbb840bae40a453b731b4
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\UnityTempFile-452e566afabfbb840bae40a453b731b4
+    projectPath: Temp\UnityTempFile-452e566afabfbb840bae40a453b731b4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\UnityTempFile-668b1871674a3f3468d6b0e2e5cae069
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\UnityTempFile-668b1871674a3f3468d6b0e2e5cae069
+    projectPath: Temp\UnityTempFile-668b1871674a3f3468d6b0e2e5cae069
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\UnityTempFile-67f0b311455f09a448166477f23811e4
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\UnityTempFile-67f0b311455f09a448166477f23811e4
+    projectPath: Temp\UnityTempFile-67f0b311455f09a448166477f23811e4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\UnityTempFile-7033dc723ca8dc547937b1522da133c0
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\UnityTempFile-7033dc723ca8dc547937b1522da133c0
+    projectPath: Temp\UnityTempFile-7033dc723ca8dc547937b1522da133c0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\UnityTempFile-7200e96998d880a489e5f26e48b62720
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\UnityTempFile-7200e96998d880a489e5f26e48b62720
+    projectPath: Temp\UnityTempFile-7200e96998d880a489e5f26e48b62720
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\UnityTempFile-7e397cbc8a961d640a418da5dc9ae757
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\UnityTempFile-7e397cbc8a961d640a418da5dc9ae757
+    projectPath: Temp\UnityTempFile-7e397cbc8a961d640a418da5dc9ae757
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\UnityTempFile-8ef7f25d10ee20e4f8cc652442c0703e
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\UnityTempFile-8ef7f25d10ee20e4f8cc652442c0703e
+    projectPath: Temp\UnityTempFile-8ef7f25d10ee20e4f8cc652442c0703e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\UnityTempFile-97e30ffdb507a174e966c9d69ec61a2a
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\UnityTempFile-97e30ffdb507a174e966c9d69ec61a2a
+    projectPath: Temp\UnityTempFile-97e30ffdb507a174e966c9d69ec61a2a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\UnityTempFile-a2b6d01b3998a424584e43087655acdd
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\UnityTempFile-a2b6d01b3998a424584e43087655acdd
+    projectPath: Temp\UnityTempFile-a2b6d01b3998a424584e43087655acdd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\UnityTempFile-a559e5e500ccdab43bda35cb1f324a16
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\UnityTempFile-a559e5e500ccdab43bda35cb1f324a16
+    projectPath: Temp\UnityTempFile-a559e5e500ccdab43bda35cb1f324a16
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\UnityTempFile-afa2ec5172be9914d94ff02e4e23f433
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\UnityTempFile-afa2ec5172be9914d94ff02e4e23f433
+    projectPath: Temp\UnityTempFile-afa2ec5172be9914d94ff02e4e23f433
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\UnityTempFile-b07c972bfc411d24e8027d7d6a63126e
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\UnityTempFile-b07c972bfc411d24e8027d7d6a63126e
+    projectPath: Temp\UnityTempFile-b07c972bfc411d24e8027d7d6a63126e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\UnityTempFile-b44d5bb3862a46e4ca31987fa5200140
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\UnityTempFile-b44d5bb3862a46e4ca31987fa5200140
+    projectPath: Temp\UnityTempFile-b44d5bb3862a46e4ca31987fa5200140
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\UnityTempFile-ba86f1122f354cd4e90c450e4b8d4fa2
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\UnityTempFile-ba86f1122f354cd4e90c450e4b8d4fa2
+    projectPath: Temp\UnityTempFile-ba86f1122f354cd4e90c450e4b8d4fa2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\UnityTempFile-befe7662d944da146abc1cee604ad4f2
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\UnityTempFile-befe7662d944da146abc1cee604ad4f2
+    projectPath: Temp\UnityTempFile-befe7662d944da146abc1cee604ad4f2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\UnityTempFile-c09188b8c4afce64ba055ca5e514c982
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\UnityTempFile-c09188b8c4afce64ba055ca5e514c982
+    projectPath: Temp\UnityTempFile-c09188b8c4afce64ba055ca5e514c982
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\UnityTempFile-c4ee3f7d9f971be4aa0af049647f8baa
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\UnityTempFile-c4ee3f7d9f971be4aa0af049647f8baa
+    projectPath: Temp\UnityTempFile-c4ee3f7d9f971be4aa0af049647f8baa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\UnityTempFile-e43290bd3339ffa499c5f7a088d7589e
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\UnityTempFile-e43290bd3339ffa499c5f7a088d7589e
+    projectPath: Temp\UnityTempFile-e43290bd3339ffa499c5f7a088d7589e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\UnityTempFile-e49b69177b857e04d8028a69bae5f382
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\UnityTempFile-e49b69177b857e04d8028a69bae5f382
+    projectPath: Temp\UnityTempFile-e49b69177b857e04d8028a69bae5f382
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\UnityTempFile-ef0827facf5a3e248ae8f64a032808f3
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\UnityTempFile-ef0827facf5a3e248ae8f64a032808f3
+    projectPath: Temp\UnityTempFile-ef0827facf5a3e248ae8f64a032808f3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\UnityTempFile-f753f944dec1f864e97f6ee5af927421
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\UnityTempFile-f753f944dec1f864e97f6ee5af927421
+    projectPath: Temp\UnityTempFile-f753f944dec1f864e97f6ee5af927421
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\UnityTempFile-fd3267b2fa6bb9341ac89685f7126a4c
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\UnityTempFile-fd3267b2fa6bb9341ac89685f7126a4c
+    projectPath: Temp\UnityTempFile-fd3267b2fa6bb9341ac89685f7126a4c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Meadow\Temp\workerlic
+    fullPath: C:\Users\computer\Meadow-Unity-Game\Meadow\Temp\workerlic
+    projectPath: Temp\workerlic
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
